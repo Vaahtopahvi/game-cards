@@ -12,7 +12,7 @@ Wanted to make a small interactive list of my favorite games, from the past and 
 <img src="https://i.imgur.com/PGW30VV.png" alt="Screenshot of a the Pokemon Memory Game." width="700"/>
 
 <br>
-And one more gif, to show its interactivity.-------------------------------------------------------------------------------------------------
+And one more gif, to show its interactivity.
 
 ![game cards interactivity](https://github.com/Vaahtopahvi/game-cards/blob/main/src/assets/preview.gif)
 
