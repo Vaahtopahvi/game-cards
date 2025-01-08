@@ -1,4 +1,3 @@
-import Card from "./components/Card";
 import img1 from "./assets/image1.png";
 import img2 from "./assets/image2.png";
 import img3 from "./assets/image3.png";
